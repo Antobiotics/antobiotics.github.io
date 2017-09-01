@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/about/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
